@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News_Headline_Retrofit</string>
+    <string name="tittle_text">Heading tittle</string>
+    <string name="description_text">description</string>
+</resources>

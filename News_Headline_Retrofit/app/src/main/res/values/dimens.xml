@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_text_size">23dp</dimen>
+    <dimen name="tittle_padding">8dp</dimen>
+    <dimen name="constraint_rec">32dp</dimen>
+</resources>
