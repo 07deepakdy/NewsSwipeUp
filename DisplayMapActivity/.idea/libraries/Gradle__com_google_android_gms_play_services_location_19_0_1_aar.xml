@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-location:19.0.1@aar">
+    <CLASSES>
+      <root url="file://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/9c7b071e1ae0fc5b37060aaf136448c3/transformed/jetified-play-services-location-19.0.1/res" />
+      <root url="file://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/f3181f3b0e364a2c0f64728e98985a61/transformed/jetified-play-services-location-19.0.1/AndroidManifest.xml" />
+      <root url="file://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/f3181f3b0e364a2c0f64728e98985a61/transformed/jetified-play-services-location-19.0.1/res" />
+      <root url="jar://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/f3181f3b0e364a2c0f64728e98985a61/transformed/jetified-play-services-location-19.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/modules-2/files-2.1/com.google.android.gms/play-services-location/19.0.1/21c0fe95fc8d679c87e65c85129c1191a8ca8625/play-services-location-19.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

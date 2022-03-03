@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193324500936",
+    "project_id": "qizzz-app",
+    "storage_bucket": "qizzz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193324500936:android:2596bb1de5b96beddee2fd",
+        "android_client_info": {
+          "package_name": "com.example.qizzz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193324500936-oe3ffqsh1tvoof5dlslvhl2uhdboorj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bsYQaLi9p8HL5R1t5D8SfOQVtPl-IPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193324500936-oe3ffqsh1tvoof5dlslvhl2uhdboorj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

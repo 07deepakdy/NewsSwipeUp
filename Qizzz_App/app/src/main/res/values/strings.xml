@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Qizzz_App</string>
+    <string name="wellcome_qwiz">WellCome to Quiz</string>
+    <string name="quotes_text">Everyone loves sport. And everyone loves a quiz</string>
+    <string name="Stay_connected">Stay Connected</string>
+    <string name="detail_text">Enter your email address and password to get access your account.</string>
+    <string name="emai_edit">Enter Email</string>
+    <string name="account_text">already have an account?login</string>
+    <string name="password_edit">Enter Password</string>
+    <string name="confirm_password">Enter Confirm password</string>
+    <string name="login_text">Login Now</string>
+    <string name="detail_login">Please login to continue your App</string>
+    <string name="nav_text">"Quiz your self daily "</string>
+    <string name="title_item">07/03/2021</string>
+    <string name="previous_btn">"Previous "</string>
+    <string name="submit_btn">"Submit "</string>
+    <string name="option_item">A. Option First</string>
+    <string name="next_btn">Next</string>
+</resources>

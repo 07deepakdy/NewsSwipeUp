@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tittle_padding" >8dp</dimen>
+    <dimen name="max_size">35sp</dimen>
+    <dimen name="min_size">20sp</dimen>
+</resources>

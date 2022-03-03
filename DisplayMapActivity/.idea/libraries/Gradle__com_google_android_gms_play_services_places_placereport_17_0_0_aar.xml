@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-places-placereport:17.0.0@aar">
+    <CLASSES>
+      <root url="file://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/b5b3f8506fc0794bd37f17da4b56a237/transformed/jetified-play-services-places-placereport-17.0.0/res" />
+      <root url="file://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/592f3473eaba94080a90bb081e374c6f/transformed/jetified-play-services-places-placereport-17.0.0/res" />
+      <root url="jar://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/592f3473eaba94080a90bb081e374c6f/transformed/jetified-play-services-places-placereport-17.0.0/jars/classes.jar!/" />
+      <root url="file://E:/klevvrtech project/instagram-integration-android-application-tutorial-master/caches/transforms-3/592f3473eaba94080a90bb081e374c6f/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

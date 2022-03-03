@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/stay_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_slab_bold"
+        android:text="@string/Stay_connected"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.17"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.17000002" />
+
+    <TextView
+        android:id="@+id/detail_text"
+        android:layout_width="352dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="21dp"
+        android:text="@string/detail_text"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/stay_text"
+        app:layout_constraintTop_toBottomOf="@+id/stay_text" />
+
+    <EditText
+        android:id="@+id/email_edit_login"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:ems="10"
+        android:hint="@string/emai_edit"
+        android:inputType="textEmailAddress"
+
+        app:layout_constraintEnd_toEndOf="@+id/detail_text"
+        app:layout_constraintStart_toStartOf="@+id/stay_text"
+        app:layout_constraintTop_toBottomOf="@+id/detail_text" />
+
+    <EditText
+        android:id="@+id/password_edit_login"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="@string/password_edit"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="@+id/detail_text"
+        app:layout_constraintStart_toStartOf="@+id/stay_text"
+        app:layout_constraintTop_toBottomOf="@+id/email_edit_login" />
+
+    <EditText
+        android:id="@+id/confirm_password_edit_reg"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:hint="@string/confirm_password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="@+id/email_edit_login"
+        app:layout_constraintStart_toStartOf="@+id/password_edit_login"
+        app:layout_constraintTop_toBottomOf="@+id/password_edit_login" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/start_btn_intro"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/btn_design"
+        android:text="signup"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/confirm_password_edit_reg"
+        app:layout_constraintStart_toStartOf="@+id/confirm_password_edit_reg"
+        app:layout_constraintTop_toBottomOf="@+id/confirm_password_edit_reg" />
+
+    <TextView
+        android:id="@+id/already_text_reg"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/account_text"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/start_btn_intro"
+        app:layout_constraintStart_toStartOf="@+id/start_btn_intro"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_intro" />
+
+    <include
+        layout="@layout/footer_design"
+        android:layout_width="417dp"
+        android:layout_height="222dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/already_text_reg">
+
+
+    </include>
+</androidx.constraintlayout.widget.ConstraintLayout>

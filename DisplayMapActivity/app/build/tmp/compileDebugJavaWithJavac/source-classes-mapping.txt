@@ -1,0 +1,4 @@
+com/example/displaymapactivity/BuildConfig.java
+ com.example.displaymapactivity.BuildConfig
+com/example/displaymapactivity/databinding/ActivityMapsBinding.java
+ com.example.displaymapactivity.databinding.ActivityMapsBinding

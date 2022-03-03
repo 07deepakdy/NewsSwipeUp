@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentKotlinExample1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_fragment">"Second Fragment "</string>
+    <string name="Second_fragment_text">Second Fragment</string>
+    <string name="name_editText">Enter Text</string>
+    <string name="Send_btn">Send</string>
+    <string name="show_text">Nothing is show</string>
+</resources>

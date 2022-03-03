@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BoundServices</string>
+    <string name="local_service_started">BoundServices is Started</string>
+    <string name="local_service_stopped">BoundServices is Stopped</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="local_service_label">Bound Message</string>
+    <string name="local_service_connected">local service is connected</string>
+    <string name="local_service_disconnected">local service is disconnected</string>
+
+</resources>

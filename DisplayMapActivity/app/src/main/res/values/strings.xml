@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">DisplayMapActivity</string>
-    <string name="title_activity_maps">MapsActivity</string>
-
-    <string name="google_maps_release_key" templateMergeStrategy="preserve"
-        translatable="false">AIzaSyBBv07YYCTGXUdCWYQ-xw1VVWlduBenPWg</string>
-
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBfaa1dUYhEGJQxoHKeCMOp5dL38eH_U4E</string>
-</resources>
